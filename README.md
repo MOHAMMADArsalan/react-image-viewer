@@ -1,11 +1,7 @@
-# react-magnifier
+# react-draggable-image-viewer
 
-**React image zoom component**
-
-- Simple and customizable
-- Supports touch screens
-- Allows different files for large image and magnifying glass (e.g. thumbnail and high-resolution image)
-
+**React Draggable image zoom component**
+A slack like image viewer for react.
 
 <!-- <p align="center">
   <img src=".github/demo.gif" width=600 alt="Demo">
