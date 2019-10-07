@@ -1,0 +1,6 @@
+.dragable {
+  position: absolute;
+  /* width: 30vw; */
+  width: 100%;
+  padding: 2rem;
+}
