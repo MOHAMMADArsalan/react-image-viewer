@@ -32,6 +32,8 @@ class App extends Component {
           isDraggable={true}
           images={[
             'http://www.pakistan.gov.pk/images/Pakistan_day2.jpg',
+            'http://www.pakistan.gov.pk/images/Pakistan_day2.jpg',
+            'http://www.pakistan.gov.pk/images/Pakistan_day2.jpg',
             'http://www.pakistan.gov.pk/images/Pakistan_day2.jpg'
           ]}
         />
