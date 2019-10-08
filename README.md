@@ -3,9 +3,13 @@
 **React Draggable image zoom component**
 A slack like image viewer for react.
 
-<!-- <p align="center">
-  <img src=".github/demo.gif" width=600 alt="Demo">
-</p> -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MOHAMMADArsalan/react-draggable-image-viewer/master/Assets/demo1.png" width=600 alt="Demo 1">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MOHAMMADArsalan/react-draggable-image-viewer/master/Assets/demo2.png" width=600 alt="Demo 2">
+</p>
 
 ## Usage
 
